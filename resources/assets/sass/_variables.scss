@@ -1,8 +1,40 @@
-
 // Body
-$body-bg: #f5f8fa;
+$body-bg: #f4f4f4;
 
 // Typography
-$font-family-sans-serif: "Raleway", sans-serif;
-$font-size-base: 0.9rem;
+$font-family-sans-serif: 'PT Sans', sans-serif;
+$font-size-base: 1rem;
 $line-height-base: 1.6;
+
+// Custom Variables
+$white:    #fff !default;
+$gray-100: #f8f9fa !default;
+$gray-200: #e9ecef !default;
+$gray-300: #dee2e6 !default;
+$gray-400: #ced4da !default;
+$gray-500: #AEA79F !default;
+$gray-600: #868e96 !default;
+$gray-700: #495057 !default;
+$gray-800: #333 !default;
+$gray-900: #212529 !default;
+$black:    #000 !default;
+
+$blue:    #007bff !default;
+$indigo:  #6610f2 !default;
+$purple:  #772953 !default;
+$pink:    #e83e8c !default;
+$red:     #DF382C !default;
+$orange:  #E95420 !default;
+$yellow:  #EFB73E !default;
+$green:   #38B44A !default;
+$teal:    #20c997 !default;
+$cyan:    #17a2b8 !default;
+
+$primary:       $orange !default;
+$secondary:     #20b5e9 !default;
+$success:       $green !default;
+$info:          $cyan !default;
+$warning:       $yellow !default;
+$danger:        $red !default;
+$light:         $gray-200 !default;
+$dark:          $purple !default;

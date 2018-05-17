@@ -1,0 +1,70 @@
+// Setting custom font
+* {
+	font-family: 'PT Sans', sans-serif !important;
+}
+// Jumbotron area
+.showcase-content {
+	padding: 8rem 1rem;
+  	margin-bottom: 2rem;
+  	background-color: #e9ecef;
+  	border-radius: 0.3rem;
+  	.container {
+  		p {
+  			font-size: 1.25em;
+  		}
+  	}
+}
+.jumbotron-heading {
+	font-size: 3em;
+}
+// Blog styles
+.blog-post {
+  margin-bottom: 4rem;
+    .blog-post-title {
+    color: $primary !important;
+    margin-bottom: .25rem;
+    font-size: 2rem;
+  }
+  .blog-post-meta {
+    font-size: 0.9rem;
+    margin-bottom: 1.25rem;
+    color: #999;
+  }
+  .blog-post-body {
+    font-size: 1rem;
+  }
+  .blog-post-body-full {
+    font-size: 1.1rem;
+  }
+}
+.post-divider {
+	margin: 1em 0;
+}
+
+// Header, Navbar and Footer styles
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  margin-bottom: 60px;
+  padding-top: 4rem !important;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: $primary;
+  color: $gray-100;
+  height: 50px;
+  .footer-text {
+    margin-top: 0.7rem !important;
+    text-align: center;
+  }
+}
+.navbar-brand {
+  font-size: 1.6em !important;
+}
+.nav-item, .nav-link, .dropdown-item {
+  font-size: 1em !important;
+}

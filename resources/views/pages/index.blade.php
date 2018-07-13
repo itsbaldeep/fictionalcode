@@ -20,7 +20,7 @@
  		<div class="col-lg-4 my-4 px-2">
             <img class="rounded-circle" src="images/bootstrap.png" width="140" height="140">
             <h2>Bootstrap</h2>
-            <p>This site is made with Bootstrap! That's cool, isn't it? It is very light and it makes this application resposive with just a nick of time.</p>
+            <p>This site is made using Bootstrap framework! It is very light and it makes this application responsive in just a nick of time. It also gives a pleasing look to the website.</p>
       	</div>
       	<div class="col-lg-4 my-4 px-2">
             <img class="rounded-circle" src="images/laravel.png" width="140" height="140">
